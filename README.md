@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This is the project README file. This Repository is for my Data Science Project.<br>
+This Repository is for my Data Science Project.<br>
 
 ------------------------------------------------------------------------
 
